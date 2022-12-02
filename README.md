@@ -9,4 +9,4 @@ This project is a workable online menu. It allows the user to chose the size and
 This project uses JavaScript, CSS, and HTML to allow this to happen.
 
 TicTacToe Project:
-This project is an interactive TicTacToe game. This code uses JavaScript, CSS, and HTML to achieve this. The game includes icons, sound effects styled with CSS and is given functionality with JavaScript.
+This project is an interactive TicTacToe game. This code uses JavaScript, CSS, and HTML to achieve this. The game includes icons and sound effects styled with CSS and is given functionality with JavaScript.
